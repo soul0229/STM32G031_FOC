@@ -1,2 +1,2 @@
 # STM32G031_FOC
-A simple FOC project!
+A simple FOC project! FOC learning backup.
